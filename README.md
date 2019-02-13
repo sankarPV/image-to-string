@@ -1,1 +1,1 @@
-# image-to-string
+# Read text from image
