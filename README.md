@@ -1,2 +1,2 @@
 # Read text from image
-Update from GIT
+Update from local
